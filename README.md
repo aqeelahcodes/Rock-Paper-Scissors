@@ -20,6 +20,4 @@ Gaming is really a workout for your mind disguised as fun
 - Step 4: In JavaScript defined variables for caching the DOM (storing variables for future use)
 - Step 5: In JavaScript addEventListeners for each option and defined new functions to take a user choice using switch statements and computer choice using built in objects
   
-  
-
 ![image](https://user-images.githubusercontent.com/70718104/150709257-1da9a8f8-bdeb-4954-8a25-0e53835e7f48.png)
