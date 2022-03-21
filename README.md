@@ -1,7 +1,7 @@
 # Rock-Paper-Scissors Game
 A simple rock-paper-scissors game a user can play against the computer.
 
-## Lanugages used:
+## Languages used:
 HTML | CSS | JavaScript
 
 ## What the project does
